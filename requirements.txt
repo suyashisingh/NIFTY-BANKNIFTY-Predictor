@@ -9,4 +9,3 @@ altair
 scikit-learn
 xgboost
 prophet
-fbprophet
